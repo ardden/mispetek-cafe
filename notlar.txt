@@ -1,0 +1,344 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="Author" content="M.Karadeniz">
+    <meta name="Description" content="This page consists of everything I learned in my HTML classes from the YouTube video in June 6 2023.">
+    <title>MARVEL</title>
+    <link rel="icon" href="2.png" type="image/x-icon">
+    <link rel="stylesheet" href="main.css" type="text/css">
+</head>
+
+<body>
+     <header> 
+        <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MARVEL CINEMATIC UNIVERSE</h1>
+
+        <nav aria-label="primary-navigation">
+            <ul>
+                <li>
+                    <a href="#MCU">About the MCU</a>
+                </li>
+                <li>
+                    <a href="#Heroes">About the Heroes</a>
+                </li>
+                <li>
+                    <a href="#Contact">Contact Me</a>
+                </li>
+            </ul>
+        </nav>
+    </header>  
+
+    <hr>
+
+    <br><br><br><br>
+    <main>
+        <article id="MCU">
+            
+            <figure>
+                <img src="img/Marvel_Cinematic_Universe_Logo.webp" alt="MCU" title="MCU" width="1100" height="500" loading="lazy">
+            </figure>
+
+            <br><br><br><br>
+
+            <hr>
+
+            <figure>
+                <figcaption> What is MCU? </figcaption>
+                <p>
+                    <code>
+                        It means Marvel Cinematic Universe
+                    </code>
+                </p>
+            </figure>
+            <hr>
+            <aside>
+                <details>
+                    <summary>Marvel <mark>Cinematic</mark> Universe</summary>
+                    <p>The Marvel Cinematic Universe is an American media franchise and shared universe centered on a series of superhero films produced by Marvel Studios. The films are based on characters that appear in American comic books published by Marvel Comics. Since 1939.</p>
+                </details>
+            </aside>
+            <br>
+            <table>
+                    <caption>The Daily Schedule of an MCU Fan</caption>
+                    <thead>
+                        <tr>
+                            <th>&nbsp;</th>
+                            <th scope="col">Time</th>
+                            <th scope="col">Activity</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <th scope="row">Morning</th>
+                            <td>
+                                <time datetime="08:00">8am</time>-<time datetime="12:00">12pm</time>
+                            </td>
+                            <td>Read Comics</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Break</th>
+                            <td>
+                                <time datetime="12:00">12pm</time>-<time datetime="15:00">3pm</time>
+                            </td>
+                            <td>Watch MCU</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Afternoon</th>
+                            <td>
+                                <time datetime="15:00">3pm</time>-<time datetime="19:00">7pm</time>
+                            </td>
+                            <td>Repeat</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Evening</th>
+                            <td rowspan="2">All Other Times</td>
+                            <td>Watch What If..?</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Night</th>
+                            <td>Watch animated MCU movies.</td>
+                        </tr>
+                    </tbody>
+                    <tfoot>
+                        <tr>
+                            <td colspan="3">And that's what I do every day.</td>
+                        </tr>
+                    </tfoot>
+            </table>
+
+            <hr>
+
+            <h2>Are you ready to learn more about MCU?</h2>  
+            <p>I <em>really am! </em> &#x1F60A;</p>
+
+ 
+                <figure>
+                    <img src="img/Marvel-PNG-Photo.png" alt="Spiderman" title="Spiderman" width="400" height="315" loading="lazy">
+                        <figcaption>
+                         Spiderman
+                        </figcaption>
+                </figure>
+
+            <br>
+            <section>
+                <h3>Do you like Marvel?</h3>  
+                <p>Your answer must be yes: </p>
+            <ol>
+                    <li> Or is it? </li>
+                    <li> I guess it's a YES! </li>
+                    <li> Because I'd say yes. </li>
+            </ol>
+            </section>
+            <figure>
+                <img src="img/Marvel-Avengers-PNG-Free-Image.png" alt="Heroes" title="Marvel Heroes" width="500" height="350" loading="lazy">
+                <figcaption>
+                    The Avengers
+                </figcaption>
+            </figure>
+
+            
+            <br>
+            
+        </article>
+
+        <hr>
+
+        <article id="Heroes">
+            <h2>Do you know my favourite character is Doctor Strange?</h2>  
+            <p>Yes, he is my favourite!</p>
+            <dl>
+                <dt>I love <abbr title="Dark Magic">magic!</abbr></dt>
+                <dd>Because I'm interested in witchcraft. <a href="https://www.nerdythings.net/news/doctor-strange-vs-scarlet-witch/" target="_blank">SEE MORE</a> </dd>
+
+                <dt>I love <mark>Stephen Strange</mark> more!</dt>
+                <dd>Because I think he is stronger than <mark><strong>Wanda Maximoff</strong></mark>!</dd>
+            </dl>
+
+            <figure>
+                <img src="img/472636-382728003.jpg" alt="Wanda vs Stephen" title="Scarlet Witch vs Doctor Strange" width="1200" height="630" loading="lazy">
+                <figcaption>
+                    Doctor Strange and Scarlet Witch
+                </figcaption>
+            </figure>
+
+            <br><br>
+
+            <h3> Do you like the villains?</h3>  
+            <ul>
+                <li>
+                    <p>
+                        &nbsp;&nbsp;&nbsp;Yes! I'm a big fan of <mark><strong>Loki!</strong></mark>
+                    </p>
+                </li>
+            </ul>
+
+            <figure>
+                <img src="img/1200x1200.png" alt="Loki" title="Loki" width="300" height="280" loading="lazy">
+                <figcaption>
+                    God of Mischief
+                </figcaption>
+            </figure>
+
+            <br><br>
+
+            <h3>Do you like the heroes?</h3>
+            <ul>
+                <li>
+                    <p>
+                        &nbsp;&nbsp;&nbsp;Yes! And one of my favourites is <mark> <abbr title="Mozilla Developer Network">THOR!</abbr> </mark>
+                    </p>
+                </li>
+            </ul>  
+
+            <figure>
+                <img src="https://i.pinimg.com/originals/ff/d0/6d/ffd06d826c0571dac0aa8c4fa076b89b.png" alt="marvel-thor" title="Thor Odinson" width="300" height="400" loading="lazy"> 
+                <figcaption>
+                    God of Thunder
+                </figcaption>
+            </figure>
+
+            <br><br>
+
+        <address>
+            The Mighty Thor Volume 1: <br>
+            Thunder In Her Veins (#1-5)
+        </address>
+
+        </article>
+        <hr>
+
+            <article id="Contact">
+                    <h2> Contact Me </h2>
+                    <p>I really want to hear from you</p>
+
+                    <form action="https://httpbin.org/get" method="get">
+                        <fieldset>
+                            <legend>Personal Info</legend>
+                            <p>
+                            <label for="firstName">First Name:</label>
+                            <input type="text" name="firstName" id="firstName"
+                            placeholder="Thor" autocomplete="on" required 
+                            autofocus>
+                            </p>
+                            <p>
+                            <label for="lastName">Last Name:</label>
+                            <input type="text" name="lastfirstName" id="lastName"
+                            placeholder="Odinson" autocomplete="on" 
+                            required>
+                            </p>
+                            <p>
+                            <label for="passWord">Password:</label>
+                            <input type="password" name="passWord" id="passWord"
+                            placeholder="Your Secret" 
+                            required>
+                            </p>
+                            <p>
+                            <label for="phone">Phone:</label>
+                            <input type="tel" name="phone" id="phone" placeholder="555555555"
+                            pattern="[0-9]{3}[0-9]{3}[0-9]{4}"
+                            required>
+                            </p>
+                            <p>
+                            <label for="decade">Birth Date:</label>
+                            <input type="number" name="decade" id="decade" min="1950" max="2023" step="1" value="1980">
+                            </p>
+            <!--                 <p>
+                                <label for="avenger">Select your favourite Avengers</label>
+                                <select name="avenger" id="avenger" multiple size="7">
+                                    <optgroup label="Strongest Ones">
+                                        <option value="thor" selected>Thor</option>
+                                        <option value="tony">Tony Stark</option>
+                                    </optgroup>
+                                    <optgroup label="Most Favourited Ones">
+                                        <option value="captain">Captain America</option>
+                                        <option value="hulk">Hulk</option>
+                                        <option value="panther">Black Panther</option>
+                                        <option value="widow">Black Widow</option>
+                                        <option value="other">Other</option>
+                                    </optgroup>
+                                </select>
+                            </p> -->
+                            <p>
+                                <label for="avenger">Select your favourite Avenger</label>
+                                <input type="text" name="avenger" id="avenger" list="avengers-list">
+                                <datalist id="avengers-list">
+                                    <option value="Thor">
+                                    <option value="Captain">
+                                    <option value="Tony">
+                                    <option value="Hulk">
+                                    <option value="Natasha">
+                                    <option value="Other">
+                                </datalist>
+                            </p>
+                        </fieldset>
+                            <br>
+                        <fieldset>
+                            <legend>
+                                Who is your favourite Asgardian?
+                            </legend>
+                            <p>
+                                <input type="radio" name="asgard" id="thor" value="thor">
+                                <label for="thor">Thor</label>
+                            </p>
+                            <p>
+                                <input type="radio" name="asgard" id="loki" value="loki">
+                                <label for="loki">Loki</label>
+                            </p>
+                            <p>
+                                <input type="radio" name="asgard" id="hela" value="hela">
+                                <label for="hela">Hela</label>
+                            </p>
+                        </fieldset>
+                            <br>
+                        <fieldset>
+                            <legend>
+                                Which Marvel merch do you have?
+                            </legend>
+                            <p>
+                                <input type="checkbox" name="tmerch" id="tmerch" value="tmerch">
+                                <label for="tmerch">Thor merch</label>
+                            </p>
+                            <p>
+                                <input type="checkbox" name="lmerch" id="lmerch" value="lmerch">
+                                <label for="lmerch">Loki merch</label>
+                            </p>
+                            <p>
+                                <input type="checkbox" name="imerch" id="imerch" value="imerch">
+                                <label for="imerch">Iron Man merch</label>
+                            </p>
+                            <p>
+                                <input type="checkbox" name="othermerch" id="otherMerch" value="otherMerch">
+                                <label for="otherMerch">Other</label>
+                            </p>
+                        </fieldset>
+                            <br>
+                        <fieldset>
+                            <legend>
+                                Send me A Note!
+                            </legend>
+                                <label for="message">Your Message</label>
+                                <br>
+                                <textarea name="message" id="message" cols="30" rows="10" 
+                                    placeholder="Type your message here"></textarea>
+                        </fieldset>
+                            <br>
+                            <button type="submit">Submit</button>
+                            <button type="submit" formaction="https://httpbin.org/post" formmethod="post">Post</button>
+                            <button type="reset">Reset</button>
+                </form>
+            </article>
+        </main>
+        <hr>
+        <footer>
+            <p>
+            &lt;&lt;&lt; &copy; <a href="about.html">M.Karadeniz</a> &gt;&gt;&gt;
+            </p>
+
+            <p>
+                <a href="#MCU">Back To Top</a>
+            </p>
+        </footer>
+    </body>
+
+    </html>
